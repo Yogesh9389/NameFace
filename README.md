@@ -8,6 +8,10 @@ The Face Prediction Web Application is a project that utilizes web development t
 - Dynamic avatar generation: The application integrates with the DiceBear Avatars API to generate unique avatars based on the user's name.
 - Real-time updates: The predicted face avatar is displayed in real-time as the user enters their name.
 
+## Demo
+
+A live demo of the Tic Tac Toe AI game is available [here](https://yogesh9389.github.io/NameFace/index.html).
+
 ## Getting Started
 
 To run the Face Prediction Web Application locally, follow these steps:
@@ -53,4 +57,4 @@ The Face Prediction Web Application integrates with the DiceBear Avatars API, al
 If you have any questions or feedback, you can reach the project maintainer at [parmaryogeshpal@gmail.come.com](mailto:your-email@example.com).
 
 
- https://yogesh9389.github.io/NameFace/index.html
+ 
