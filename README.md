@@ -13,7 +13,7 @@ The Face Prediction Web Application is a project that utilizes web development t
 To run the Face Prediction Web Application locally, follow these steps:
 
 1. Clone the repository: `https://github.com/Yogesh9389/NameFace.git`
-2. Navigate to the project directory: `cd face-prediction-web-app`
+2. Navigate to the project directory: 
 3. Open `index.html` in a web browser.
 4. Enter the name: Input the name in the provided field and observe the real-time generation of the face avatar.
 
