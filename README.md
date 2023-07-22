@@ -10,7 +10,7 @@ The Face Prediction Web Application is a project that utilizes web development t
 
 ## Demo
 
-A live demo of the Tic Tac Toe AI game is available [here](https://yogesh9389.github.io/NameFace/index.html).
+A live demo of the Name Face Avatar application is available [here](https://yogesh9389.github.io/NameFace/index.html).
 
 ## Getting Started
 
